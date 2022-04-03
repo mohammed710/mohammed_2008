@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammed710
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ruby hahah i now it's very easy
+- 🌱 I’m currently learning fron-end and in the future i will learn back-end  
 
 console.log("my gamil --> mhymwr847@gmail.com ")
 
